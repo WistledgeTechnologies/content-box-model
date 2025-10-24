@@ -1,2 +1,2 @@
-Content box model 
-=================
+Content box model example 
+=========================
